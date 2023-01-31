@@ -1,0 +1,1 @@
+./scube.r -dataset_file_path ../../data/lkml/rawdata.txt -datainterval 100000 -ignore_bits 10 -reserved_bits 2 -alpha 0.844586 -exp 4779 -fplength 16 -slots 8191 -width 100 -depth 100 -result uk2007.txt
